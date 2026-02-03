@@ -32,7 +32,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma** en IES Virgen De La
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Email-alejandro.roa.sebastian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.roa.sebastian@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alejandro-Roa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-roa-2a7226390)
 
 ---
 
