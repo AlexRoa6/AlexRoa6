@@ -28,20 +28,11 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma** en IES Virgen De La
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexRoa6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRoa6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Email-alejandro.roa.sebastian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.roa.sebastian@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alejandro-Roa)
 
 ---
 
